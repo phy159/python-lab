@@ -6,6 +6,9 @@ email: vanderplas@astro.washington.edu
 website: http://jakevdp.github.com
 license: BSD
 Please feel free to use and modify this, but keep the above information. Thanks!
+
+From: https://jakevdp.github.io/blog/2012/09/05/quantum-python/
+Uses split-step Fourier method
 """
 
 import numpy as np
